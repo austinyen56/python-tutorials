@@ -1,4 +1,5 @@
 # Python Tutorials
+[![Python 3.7.9](https://img.shields.io/badge/python-3.7.9-blue.svg)](https://www.python.org/downloads/release/python-374/) ![Pynb](https://img.shields.io/badge/Notebook-Jupyter-orange)
 
 Oh, hey there!
 Welcome to the git repository for MESA Python tutorials! 
